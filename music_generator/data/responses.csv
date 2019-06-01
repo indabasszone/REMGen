@@ -1,0 +1,169 @@
+Pad,Instrument1,Instrument2,Key,Tempo,Emotion,EmoRating,Listenability
+Warmth Pad,Koto,Glockenspiel,D,116,Happiness,3.5,4
+Saw Pad,Djembe,Koto,D#,146,Excitement,3,4
+Saw Pad,Djembe,Glockenspiel,E,83,Peacefulness,4.5,4.5
+Warmth Pad,Violin,Electronic Kit,F,98,Sadness,3,4.0022507
+Warmth Pad,Koto,Electronic Kit,F,106,Nervousness,3,3.5
+Saw Pad,Electric Piano,Glockenspiel,E,144,Anger,1.5,3.5
+Basic Sine Pad,Electronic Kit,Marimba,C#,115,Fear,2,3
+Warmth Pad,Djembe,Piano,E,83,Peacefulness,5,4
+Basic Sine Pad,Violin,Electric Piano,G#,91,Sadness,4.5,4
+Warmth Pad,Harp,Glockenspiel,C#,107,Nervousness,4,3.5
+Warmth Pad,Piano,Electronic Kit,C#,125,Happiness,4,4
+Saw Pad,Marimba,Electronic Kit,C,147,Excitement,3,3.5
+Warmth Pad,Violin,Flute,E,83,Peacefulness,5,3.5
+Saw Pad,Harp,Marimba,F#,126,Happiness,3.5,4.5
+Basic Sine Pad,Koto,Harp,G,143,Excitement,4,4.5
+Warmth Pad,Flute,Piano,C,88,Peacefulness,4.5,4.5
+Basic Sine Pad,Violin,Flute,A,94,Sadness,4.5,4
+Saw Pad,Piano,Violin,G#,95,Nervousness,3,4
+Basic Sine Pad,Electric Piano,Harp,A,145,Anger,3.5,4
+Saw Pad,Electronic Kit,Violin,F,102,Fear,2.5,4.5
+Saw Pad,Marimba,Electric Piano,D#,86,Peacefulness,4.5,3
+Basic Sine Pad,Electric Piano,Koto,C,140,Excitement,2.5,3
+Basic Sine Pad,Electric Piano,Harp,D,92,Sadness,4.5,4.0027404
+Warmth Pad,Electric Piano,Harp,F,106,Fear,4,4
+Saw Pad,Flute,Electric Piano,F#,125,Happiness,3,3.5
+Saw Pad,Electric Piano,Violin,A#,102,Nervousness,3.5,4
+Saw Pad,Flute,Electric Piano,A#,141,Anger,2,3
+Saw Pad,Marimba,Violin,G#,118,Happiness,2,3.5
+Saw Pad,Glockenspiel,Violin,G,117,Happiness,3.5,4
+Basic Sine Pad,Koto,Flute,C#,121,Happiness,2.5,4.5
+Saw Pad,Glockenspiel,Violin,F,120,Happiness,2,3
+Warmth Pad,Electronic Kit,Glockenspiel,E,146,Excitement,4.5,4
+Warmth Pad,Flute,Harp,A#,151,Excitement,3.5,3.5
+Saw Pad,Djembe,Glockenspiel,G#,152,Excitement,4,4
+Saw Pad,Djembe,Harp,B,152,Excitement,4.5,4.5
+Basic Sine Pad,Piano,Electronic Kit,C,83,Peacefulness,4,3.5
+Basic Sine Pad,Violin,Glockenspiel,D#,85,Peacefulness,4.5,4
+Basic Sine Pad,Koto,Glockenspiel,C#,92,Peacefulness,4.5,4.5
+Warmth Pad,Piano,Marimba,D#,87,Sadness,2.5,3.5
+Basic Sine Pad,Koto,Djembe,D#,86,Sadness,3.5,4
+Saw Pad,Harp,Marimba,F,88,Sadness,2,3.5
+Saw Pad,Piano,Koto,F#,96,Sadness,2,3
+Warmth Pad,Marimba,Electric Piano,A,103,Nervousness,4.5,4
+Warmth Pad,Flute,Marimba,F,103,Nervousness,4,4
+Basic Sine Pad,Djembe,Harp,G,105,Nervousness,4.5,4
+Warmth Pad,Djembe,Marimba,G,108,Nervousness,4.5,3.5
+Saw Pad,Koto,Djembe,A#,151,Anger,4,4
+Warmth Pad,Flute,Piano,C,140,Anger,2,3
+Saw Pad,Marimba,Electronic Kit,G#,150,Anger,4,4
+Saw Pad,Electric Piano,Djembe,F,154,Anger,2.5,3
+Basic Sine Pad,Djembe,Violin,A#,109,Fear,3.5,3
+Basic Sine Pad,Electric Piano,Harp,E,111,Fear,4,4
+Warmth Pad,Electric Piano,Flute,A,100,Fear,3,4
+Warmth Pad,Glockenspiel,Electronic Kit,G,114,Fear,3,3.5
+Basic Sine Pad,Glockenspiel,Piano,D#,93,Peacefulness,5,5
+Saw Pad,Flute,Piano,C,145,Excitement,4,4
+Basic Sine Pad,Flute,Djembe,E,154,Anger,4,4
+Saw Pad,Violin,Flute,G#,97,Nervousness,5,5
+Warmth Pad,Piano,Flute,F,109,Fear,5,5
+Saw Pad,Electric Piano,Harp,C#,85,Sadness,5,5
+Warmth Pad,Flute,Violin,E,94,Sadness,5,5
+Basic Sine Pad,Piano,Marimba,F,116,Happiness,3.5,4
+Warmth Pad,Djembe,Electric Piano,A#,143,Excitement,4.5,4.5
+Warmth Pad,Harp,Piano,C,89,Peacefulness,2.5,3
+Basic Sine Pad,Glockenspiel,Harp,B,97,Sadness,4,4
+Saw Pad,Koto,Electric Piano,F#,103,Nervousness,3.5,3.5
+Warmth Pad,Electric Piano,Glockenspiel,C#,154,Anger,4,4.5
+Saw Pad,Electric Piano,Electronic Kit,F,115,Fear,2.5,4
+Saw Pad,Marimba,Koto,A,119,Happiness,3,3
+Basic Sine Pad,Harp,Electric Piano,F,144,Excitement,2.5,3.5
+Warmth Pad,Electric Piano,Koto,C#,85,Peacefulness,4.5,4
+Basic Sine Pad,Djembe,Violin,B,92,Sadness,3.5,4
+Warmth Pad,Electric Piano,Harp,F#,109,Nervousness,3.5,3
+Warmth Pad,Violin,Glockenspiel,E,143,Anger,3.5,3.5
+Basic Sine Pad,Harp,Electric Piano,G#,100,Fear,3,3.5
+Basic Sine Pad,Djembe,Harp,G,98,Sadness,4,4
+Saw Pad,Glockenspiel,Flute,F,91,Sadness,3.5,4
+Basic Sine Pad,Glockenspiel,Piano,F#,90,Peacefulness,3.5,4
+Warmth Pad,Electric Piano,Harp,F,109,Nervousness,4.5,4.5
+Basic Sine Pad,Marimba,Electric Piano,B,120,Happiness,2.4969597,4
+Saw Pad,Flute,Djembe,E,146,Excitement,2.4969597,5
+Basic Sine Pad,Koto,Marimba,C,86,Sadness,3.5,3.5
+Warmth Pad,Djembe,Koto,A,103,Fear,4.5,5
+Saw Pad,Piano,Koto,B,147,Anger,5,4.5
+Basic Sine Pad,Flute,Glockenspiel,C,148,Excitement,3,4
+Basic Sine Pad,Djembe,Flute,F,145,Anger,2,3
+Saw Pad,Electric Piano,Flute,A#,97,Nervousness,4.5,4
+Basic Sine Pad,Djembe,Flute,G,100,Sadness,5,4.5
+Warmth Pad,Koto,Flute,G,126,Happiness,5,5
+Saw Pad,Electric Piano,Glockenspiel,C,83,Peacefulness,3.5,2.5
+Saw Pad,Djembe,Glockenspiel,A,98,Nervousness,2.5,3
+Basic Sine Pad,Flute,Piano,F#,149,Excitement,4,3.5
+Saw Pad,Piano,Violin,F#,152,Anger,1.5,2.5
+Basic Sine Pad,Koto,Flute,D#,113,Fear,3.5,3.5
+Basic Sine Pad,Piano,Glockenspiel,A#,90,Sadness,4,4
+Warmth Pad,Electronic Kit,Glockenspiel,E,119,Happiness,3.5,4.5
+Saw Pad,Harp,Glockenspiel,B,151,Anger,2.5,3.5
+Warmth Pad,Electric Piano,Harp,B,96,Nervousness,3,4
+Warmth Pad,Electronic Kit,Piano,G,93,Peacefulness,4,4
+Warmth Pad,Koto,Piano,G#,150,Excitement,3,3.5
+Basic Sine Pad,Marimba,Violin,G,102,Fear,3.5,4
+Saw Pad,Flute,Piano,A#,100,Nervousness,5,4.5
+Warmth Pad,Piano,Flute,G,146,Excitement,1.5,4
+Warmth Pad,Harp,Glockenspiel,D,143,Excitement,3,3.5
+Basic Sine Pad,Djembe,Electric Piano,A,114,Fear,2.5,3.5
+Basic Sine Pad,Koto,Glockenspiel,F#,110,Fear,5,3.5
+Warmth Pad,Violin,Flute,E,147,Anger,4,3
+Saw Pad,Flute,Piano,F#,142,Excitement,3.5,4
+Warmth Pad,Glockenspiel,Electric Piano,C#,90,Peacefulness,4.5,4.4998255
+Basic Sine Pad,Marimba,Djembe,E,99,Nervousness,2.5,3.5
+Warmth Pad,Flute,Piano,D,105,Nervousness,3,4
+Basic Sine Pad,Djembe,Glockenspiel,G,84,Peacefulness,4.5,4
+Saw Pad,Piano,Electronic Kit,E,94,Sadness,3,4.5
+Saw Pad,Djembe,Harp,F#,116,Happiness,4.5,4.5
+Saw Pad,Flute,Koto,E,155,Excitement,3,4
+Basic Sine Pad,Koto,Harp,C,86,Peacefulness,5,4.5
+Basic Sine Pad,Harp,Koto,D#,86,Sadness,4.5,4.5
+Basic Sine Pad,Djembe,Harp,A#,96,Nervousness,4.5,3.996769
+Saw Pad,Electronic Kit,Koto,B,147,Anger,2.5,3.5
+Warmth Pad,Electric Piano,Marimba,F#,107,Fear,4,3
+Basic Sine Pad,Electric Piano,Koto,F#,116,Happiness,4,4.5
+Basic Sine Pad,Marimba,Koto,F,142,Excitement,4.5,4
+Saw Pad,Flute,Harp,G,95,Peacefulness,5,4.5
+Basic Sine Pad,Glockenspiel,Piano,A,89,Sadness,4.5,4.5
+Basic Sine Pad,Flute,Glockenspiel,C,98,Nervousness,4.5,4
+Saw Pad,Violin,Flute,G#,140,Anger,2.5,3.5
+Saw Pad,Electronic Kit,Electric Piano,A#,102,Fear,3.5,3.5
+Warmth Pad,Djembe,Violin,C#,100,Nervousness,4.5,3
+Basic Sine Pad,Electric Piano,Harp,G,91,Peacefulness,4.5,3
+Basic Sine Pad,Koto,Electric Piano,F#,115,Happiness,2.5,4.5
+Basic Sine Pad,Koto,Harp,A#,150,Excitement,4,5
+Saw Pad,Marimba,Piano,A,87,Peacefulness,4.5,5
+Warmth Pad,Flute,Koto,A#,100,Fear,3.0,5.0
+Warmth Pad,Flute,Electronic Kit,A#,101,Fear,3.0,5.0
+Warmth Pad,Piano,Flute,G#,97,Sadness,5.0,5.0
+Saw Pad,Koto,Harp,A#,152,Anger,4.0,5.0
+Warmth Pad,Flute,Electric Piano,B,95,Nervousness,4.5,5.0
+Basic Sine Pad,Electric Piano,Electronic Kit,D#,142,Excitement,2.5,5.0
+Basic Sine Pad,Harp,Djembe,D,89,Peacefulness,4.0,5.0
+Warmth Pad,Harp,Marimba,B,118,Happiness,4.0,5.0
+Basic Sine Pad,Piano,Glockenspiel,C#,110,Fear,4.5,5.0
+Basic Sine Pad,Harp,Electronic Kit,A,99,Nervousness,3.5,4.0
+Saw Pad,Flute,Djembe,A,140,Excitement,2.0,4.0
+Saw Pad,Koto,Glockenspiel,C,88,Sadness,1.5,5.0
+Warmth Pad,Electronic Kit,Glockenspiel,A#,93,Sadness,3.5,5.0
+Basic Sine Pad,Harp,Flute,B,102,Nervousness,5.0,5.0
+Saw Pad,Electric Piano,Harp,A#,127,Happiness,4.5,4.0
+Basic Sine Pad,Djembe,Violin,C#,140,Excitement,2.0,2.5
+Saw Pad,Piano,Violin,C,87,Peacefulness,4.5,3.5023432
+Saw Pad,Piano,Koto,B,98,Sadness,3.5030403,4.0
+Warmth Pad,Marimba,Glockenspiel,D,105,Nervousness,4.5,4.0
+Saw Pad,Djembe,Violin,G,146,Anger,3.0,3.5
+Warmth Pad,Violin,Electronic Kit,A,101,Fear,4.0,3.5
+Warmth Pad,Electric Piano,Piano,E,126,Happiness,4.0,4.5
+Saw Pad,Koto,Electronic Kit,A,155,Excitement,4.0,4.0
+Warmth Pad,Glockenspiel,Piano,D,89,Peacefulness,4.0,2.5
+Warmth Pad,Violin,Koto,C,88,Sadness,4.0,3.5
+Warmth Pad,Piano,Djembe,G,97,Nervousness,4.0,3.5
+Warmth Pad,Flute,Violin,A#,145,Anger,4.0,3.5
+Saw Pad,Violin,Koto,A#,106,Fear,4.0,3.5
+Warmth Pad,Electronic Kit,Piano,A,143,Excitement,4.0,4.0
+Warmth Pad,Violin,Marimba,G#,96,Sadness,4.0,4.5
+Basic Sine Pad,Flute,Koto,D#,100,Nervousness,5.0,4.0
+Basic Sine Pad,Koto,Electronic Kit,A,140,Anger,4.0,4.0
+Basic Sine Pad,Harp,Djembe,F,80,Peacefulness,5.0,4.4995456
+Saw Pad,Violin,Koto,D,90,Peacefulness,5.0,4.4995456
+Warmth Pad,Violin,Electric Piano,G#,107,Fear,4.0,4.4995456
+Warmth Pad,Koto,Marimba,F,89,Peacefulness,4.5,4.4995456
